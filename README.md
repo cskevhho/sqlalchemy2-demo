@@ -24,3 +24,12 @@ Original content by Ssali Jona :D cheers!
     7. join_select.py
     8. session_update.py
     9. session_delete.py
+
+## Installation Steps (I guess?)
+
+    1. git clone the repo
+    2. `python3 -m venv .venv` (for our virtual environment stuff)
+    3. `source .venv/bin/activate` (enable venv)
+    4. pip install -r requirements.txt (if any are missing or the install messed up just individually pip install any missing imports)
+    5. That's all, you can start with executing create_tables.py to start
+    
