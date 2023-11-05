@@ -9,6 +9,10 @@ This repo shows a rough idea of how this all looks using SQLAlchemy to program a
 
 **NOTE, THIS IS NOT DESIGNED WITH FLASK IN MIND**, but it should not be difficult to transition into.
 
+**NOTE2, main.py has one job (in this repo) and it's just so that we don't have to type it in ***every*** file we've created (yes it's that important)**  
+
+Original content by Ssali Jona :D cheers!
+
 ## Recommended order to view files
 
     1. connect.py (note main.py has the session engine line)
@@ -19,3 +23,4 @@ This repo shows a rough idea of how this all looks using SQLAlchemy to program a
     6. session_select_one.py
     7. join_select.py
     8. session_update.py
+    9. session_delete.py
